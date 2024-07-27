@@ -158,13 +158,8 @@
         font-size: 13px;
     }
 
-    footer{
-        background-color: black;
-        width: 100%;
-    }
-
     footer p{
-        color: white;
+        color: black;
         font-size: 10px;
         font-weight: 400;
     }
