@@ -14,7 +14,7 @@ body{
 
 header{
     width: 100%;
-    height: 70px;
+    height: 50px;
     background-color: black;
     display: flex;
     justify-content: space-between;
@@ -54,7 +54,7 @@ main{
 
 #home{
     width: 100%;
-    min-height: calc(100vh - 50px);
+    min-height: calc(100vh - 70px);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -124,7 +124,7 @@ main{
 
 #products{
     width: 100%;
-    min-height: calc(100vh - 50px);
+    min-height: calc(100vh - 70px);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -191,7 +191,7 @@ main{
 
 #order article{
     width: 100%;
-    min-height: calc(100vh - 50px);
+    min-height: calc(100vh - 70px);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -217,7 +217,7 @@ main{
 }
 
 #order article div{
-    width: 80%;
+    width: 100%;
     height: fit-content;
     background-color: white;
     gap: 30px;
@@ -249,7 +249,7 @@ main{
 
 #contact{
     width: 100%;
-    min-height: calc(100vh - 50px);
+    min-height: calc(100vh - 70px);
     display: flex;
     flex-direction: column;
     justify-content: space-around;
